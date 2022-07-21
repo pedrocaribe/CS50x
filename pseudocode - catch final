@@ -1,0 +1,42 @@
+Pseudocode for Scratch product - Week 0 - CS50x
+
+This will be my pseudocode for my project.
+
+
+These are the requirements:
+
+Your project must use at least two sprites, at least one of which must not be a cat.
+Your project must have at least three scripts total (i.e., not necessarily three per sprite).
+Your project must use at least one conditional, at least one loop, and at least one variable.
+Your project must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
+Your project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than Oscartime and Ivy’s Hardest Game.
+
+- Intro
+  - Must set score to 0 (backdrop bugfix)
+  - Switch to backdrop intro
+  - Say a few lines explaining the game
+  - Move around to make it more interactive
+  - End with press space bar to play
+- When green is clicked
+  - set score to 0 (maybe not needed, this is redundant with intro)
+  - forever
+    - cat must run away from mouse pointer
+    - one costume for when running, another for when clicked, another for when slowed (playing with ball)
+    - if cat finds ball move slower for 5 seconds
+    - speed must increase based on score
+    - backdrops must change based on score
+  
+  - When cat clicked
+    - cat will say OUCH
+    - cat will reduce in size
+    - cat will "meow"
+  
+  BALL
+  
+  - When ball clicked
+    - ball must find cat
+    - ball must set and initialize a timer
+    - there must be something to trigger the slow condition of the cat speed (variable?)
+    - ball counter must count -1
+    - if no balls left, hide ball
+  
