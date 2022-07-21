@@ -1,0 +1,28 @@
+Pseudocode for Scratch product - Week 0 - CS50x
+
+This will be my pseudocode for my project.
+
+
+These are the requirements:
+
+Your project must use at least two sprites, at least one of which must not be a cat.
+Your project must have at least three scripts total (i.e., not necessarily three per sprite).
+Your project must use at least one conditional, at least one loop, and at least one variable.
+Your project must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
+Your project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than Oscartime and Ivy’s Hardest Game.
+
+- When green is clicked
+  - Change pointer icon to dog sprite
+  - Cat will show up in random position
+  - Cat has to run away from mouse pointer (forever)
+  - when cat clicked (forever)
+    - cat has to say "OUCH" 
+    - cat has to change outfit to a pain one
+    - cat has to "meow"
+    - cat has to say "congratulations + 1" 
+    - score has to count +1
+    - cat has to reduce in size
+  
+  - if click, but not the cat then cat says "haha" or "hehe" or "hihi" or "catch me if you can"
+  
+ 
