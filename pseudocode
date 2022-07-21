@@ -1,0 +1,12 @@
+Pseudocode for Scratch product - Week 0 - CS50x
+
+This will be my pseudocode for my project.
+
+
+
+- When green is clicked
+  - Cat will show up in random position
+  - Cat has to run away from mouse pointer
+  - if clicked, cat has to "meow", say "congratulations" and also reduce in size.
+  
+ 
